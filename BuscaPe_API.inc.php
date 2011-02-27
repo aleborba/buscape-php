@@ -1,6 +1,6 @@
 <?php
 /**
- * A classe Apiki_Buscape_API foi criada para ajudar no desenvolvimento de
+ * A classe BuscaPe_API foi criada para ajudar no desenvolvimento de
  * aplicações usando os webservices disponibilizados pela API do BuscaPé.
  *
  * As funções desta classe tem os mesmos nomes dos serviços disponibilizados pelo
@@ -10,7 +10,7 @@
  * @version 2.0
  * @license Creative Commons Atribuição 3.0 Brasil. http://creativecommons.org/licenses/by/3.0/br/
  */
-class Apiki_Buscape_API {
+class BuscaPe_API {
 
     /**
      * Id da aplicação
